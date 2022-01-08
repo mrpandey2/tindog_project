@@ -1,0 +1,152 @@
+body{
+    text-align: center;
+}
+hr {
+    height: 2px;
+    background-color: black;
+    border: none;
+  }
+h1{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-left: 20px;
+    padding-top: 30px;
+    font-size: 70px;
+}
+h3{
+    color: white;
+    font-size: 100px;
+}
+
+
+#title{
+    background-color: #ff4c68;
+    color: white;
+    height: 650px;
+}
+#features{
+    padding: 7% 15%;
+}
+#testimonials{
+    padding: 3% 15%;
+    background-color: #ff704c;
+    height: 400px;
+}
+#press{
+    background-color: #ff704c;
+    padding: 3%;
+    text-align: center;
+
+}
+#pricing{
+    padding-top: 40px;
+}
+#cta{
+    background-color: #ff4c68;
+    height: 300px;
+    padding-top:70px;
+}
+
+
+.container-fluid{
+    padding:0 15%;
+    height: 700px;
+}
+
+.leftside{
+    padding-top: 30px;
+    text-align: center;
+}
+.btn{
+    position: relative;
+    left: 20px;
+}
+.image{
+    padding: 50px;
+    height: 600px;
+    transform: rotate(20deg);
+}
+
+.featurecontainer {
+    padding: 90px 40px 40px;
+    
+}
+.featurecontainer p{
+    color: #8f8f8f;
+    padding: 0 10%;
+    font-weight: lighter;
+}
+.fa-bullseye{
+    width: 200px;
+    height: auto;
+}
+.icon{
+    color: #ff704c;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+
+.testimonialheading{
+    color: white;
+    font-size: 50px;
+}
+.testimonialimage{
+    width: 10%;
+    border-radius:100%;
+    margin: 20px;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius:100%;
+    margin: 20px;
+}
+
+.logo{
+    width: 15%;
+    margin-right: 20px;
+}
+
+.element1{
+    margin-left: 20px;
+}
+.element3{
+    margin: right 40px;
+}
+.button1{
+    margin-right: 40px;
+    padding: auto;
+    right:5px;
+}
+.button2{
+    margin-right:40px;
+}
+.button3{
+    margin-right:30px;
+}
+
+.testimonial-text{
+    color: white;
+    font-size: 50px;
+}
+
+.btn-lg{
+    margin-top: 30px;
+}
+#footer{
+    padding: 20px;
+}
+.mainimage{
+    height: 500px;
+    width: auto;
+    border-radius: 100%;
+}
+@media (max-width:990px){
+    #title{
+        height: 1000px;
+    }
+    .leftside{
+        margin-bottom: 40px;
+    }
+}
